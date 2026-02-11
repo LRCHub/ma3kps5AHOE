@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "青春狂騒曲",
+  "base_artist": "Sambomaster",
+  "createdAt": "2026-02-11T15:45:00.279049Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "青春狂騒曲(ライブバージョン)",
+      "artist": "Sambomaster",
+      "has_synced": false,
+      "path": "select/01_青春狂騒曲(ライブバージョン)_Sambomaster.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "青春狂騒曲",
+      "artist": "Sambomaster",
+      "has_synced": true,
+      "path": "select/02_青春狂騒曲_Sambomaster.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Seishun Kyousoukyoku; 青春狂騒曲",
+      "artist": "Sambomaster",
+      "has_synced": true,
+      "path": "select/03_Seishun_Kyousoukyoku;_青春狂騒曲_Sambomaster.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "青春狂騒曲",
+      "artist": "Sambomaster",
+      "has_synced": true,
+      "path": "select/04_青春狂騒曲_Sambomaster.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "青春狂騒曲",
+      "artist": "サンボマスター",
+      "has_synced": true,
+      "path": "select/05_青春狂騒曲_サンボマスター.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "青春狂騒曲 - Seishun Kyousoukyoku",
+      "artist": "Sambomaster",
+      "has_synced": true,
+      "path": "select/06_青春狂騒曲_-_Seishun_Kyousoukyoku_Sambomaster.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "青春狂騒曲（NARUTO-ナルト-Opening MIX）",
+      "artist": "Sambomaster",
+      "has_synced": true,
+      "path": "select/07_青春狂騒曲(NARUTO-ナルト-Opening_MIX)_Sambomaster.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "青春狂騒曲",
+      "artist": "サンボマスター",
+      "has_synced": true,
+      "path": "select/08_青春狂騒曲_サンボマスター.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "青春狂騒曲",
+      "artist": "サンボマスター",
+      "has_synced": true,
+      "path": "select/09_青春狂騒曲_サンボマスター.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "青春狂騒曲",
+      "artist": "サニーデイ・サービス",
+      "has_synced": true,
+      "path": "select/10_青春狂騒曲_サニーデイ・サービス.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青春狂騒曲",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_青春狂騒曲_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "青春狂騒曲",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_02_青春狂騒曲_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "青春狂騒曲",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_03_青春狂騒曲_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "青春狂騒曲",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_04_青春狂騒曲_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "青春狂騒曲",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_05_青春狂騒曲_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "青春狂騒曲",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_06_青春狂騒曲_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "青春狂騒曲",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_07_青春狂騒曲_サンボマスター.txt"
+    }
+  ]
+}
